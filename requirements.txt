@@ -1,0 +1,50 @@
+# Core Framework
+langgraph
+langchain
+langchain-openai
+langchain-community
+
+# Azure OpenAI
+openai
+azure-identity
+
+# Google APIs
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Vector Database
+chromadb
+sentence-transformers
+
+# Data Processing
+pandas
+numpy
+python-dateutil
+
+# Email Processing
+email-validator
+beautifulsoup4
+html2text
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+tiktoken
+
+# Async Support
+aiohttp
+asyncio
+
+# Logging and Monitoring
+loguru
+tenacity
+
+# Development
+pytest
+pytest-asyncio
+black
+ruff
+

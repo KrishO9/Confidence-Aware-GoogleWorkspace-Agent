@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+.installed.cfg
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Environment and secrets (never commit)
+.env
+.env.local
+.env.*.local
+
+# Google OAuth (never commit)
+credentials.json
+token.json
+
+# Local data and logs
+data/
+logs/
+*.log
+*.db
+*.sqlite
+
+# ChromaDB persistence
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.manifest
+*.spec
